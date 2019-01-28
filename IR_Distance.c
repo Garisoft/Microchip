@@ -21,5 +21,6 @@ void main()
         UART1_Write_Text( tmp_text );
         Delay_ms( 500 );
     }
+    //Добавлены комменты
 
 }
